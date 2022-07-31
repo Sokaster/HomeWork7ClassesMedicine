@@ -1,0 +1,14 @@
+D:\Project Courses C#\MedicineList\MedicineList\bin\Debug\netcoreapp3.1\MedicineList.exe
+D:\Project Courses C#\MedicineList\MedicineList\bin\Debug\netcoreapp3.1\MedicineList.deps.json
+D:\Project Courses C#\MedicineList\MedicineList\bin\Debug\netcoreapp3.1\MedicineList.runtimeconfig.json
+D:\Project Courses C#\MedicineList\MedicineList\bin\Debug\netcoreapp3.1\MedicineList.runtimeconfig.dev.json
+D:\Project Courses C#\MedicineList\MedicineList\bin\Debug\netcoreapp3.1\MedicineList.dll
+D:\Project Courses C#\MedicineList\MedicineList\bin\Debug\netcoreapp3.1\MedicineList.pdb
+D:\Project Courses C#\MedicineList\MedicineList\obj\Debug\netcoreapp3.1\MedicineList.csproj.AssemblyReference.cache
+D:\Project Courses C#\MedicineList\MedicineList\obj\Debug\netcoreapp3.1\MedicineList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Courses C#\MedicineList\MedicineList\obj\Debug\netcoreapp3.1\MedicineList.AssemblyInfoInputs.cache
+D:\Project Courses C#\MedicineList\MedicineList\obj\Debug\netcoreapp3.1\MedicineList.AssemblyInfo.cs
+D:\Project Courses C#\MedicineList\MedicineList\obj\Debug\netcoreapp3.1\MedicineList.csproj.CoreCompileInputs.cache
+D:\Project Courses C#\MedicineList\MedicineList\obj\Debug\netcoreapp3.1\MedicineList.dll
+D:\Project Courses C#\MedicineList\MedicineList\obj\Debug\netcoreapp3.1\MedicineList.pdb
+D:\Project Courses C#\MedicineList\MedicineList\obj\Debug\netcoreapp3.1\MedicineList.genruntimeconfig.cache
