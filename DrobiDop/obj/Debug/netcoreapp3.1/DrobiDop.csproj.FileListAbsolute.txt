@@ -1,0 +1,14 @@
+D:\Project Courses C#\DrobiDop\DrobiDop\bin\Debug\netcoreapp3.1\DrobiDop.exe
+D:\Project Courses C#\DrobiDop\DrobiDop\bin\Debug\netcoreapp3.1\DrobiDop.deps.json
+D:\Project Courses C#\DrobiDop\DrobiDop\bin\Debug\netcoreapp3.1\DrobiDop.runtimeconfig.json
+D:\Project Courses C#\DrobiDop\DrobiDop\bin\Debug\netcoreapp3.1\DrobiDop.runtimeconfig.dev.json
+D:\Project Courses C#\DrobiDop\DrobiDop\bin\Debug\netcoreapp3.1\DrobiDop.dll
+D:\Project Courses C#\DrobiDop\DrobiDop\bin\Debug\netcoreapp3.1\DrobiDop.pdb
+D:\Project Courses C#\DrobiDop\DrobiDop\obj\Debug\netcoreapp3.1\DrobiDop.csproj.AssemblyReference.cache
+D:\Project Courses C#\DrobiDop\DrobiDop\obj\Debug\netcoreapp3.1\DrobiDop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Courses C#\DrobiDop\DrobiDop\obj\Debug\netcoreapp3.1\DrobiDop.AssemblyInfoInputs.cache
+D:\Project Courses C#\DrobiDop\DrobiDop\obj\Debug\netcoreapp3.1\DrobiDop.AssemblyInfo.cs
+D:\Project Courses C#\DrobiDop\DrobiDop\obj\Debug\netcoreapp3.1\DrobiDop.csproj.CoreCompileInputs.cache
+D:\Project Courses C#\DrobiDop\DrobiDop\obj\Debug\netcoreapp3.1\DrobiDop.dll
+D:\Project Courses C#\DrobiDop\DrobiDop\obj\Debug\netcoreapp3.1\DrobiDop.pdb
+D:\Project Courses C#\DrobiDop\DrobiDop\obj\Debug\netcoreapp3.1\DrobiDop.genruntimeconfig.cache
